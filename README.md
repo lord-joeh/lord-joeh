@@ -23,7 +23,7 @@ An innovative and results-driven **Full-Stack Web Developer** with expertise in 
 I'm a dedicated software developer with a strong foundation in modern web technologies. With experience in both **frontend** and **backend** development, I specialize in crafting complete, production-ready applications.  I'm committed to writing clean, maintainable code and following industry best practices.
 
 - 🌍 **Location:** Accra, Ghana
-- 💻 **Portfolio:** [joseph-mensahportfolio.vercel.app](https://joseph-mensahportfolio.vercel.app/)
+- 💻 **Portfolio:** [mensah.dev-joseph.me](https://mensah.dev-joseph.me)
 - 📧 **Email:** josephtettehmensah37@gmail.com
 - 🔗 **GitHub:** [@lord-joeh](https://github.com/lord-joeh)
 
@@ -35,89 +35,20 @@ I'm a dedicated software developer with a strong foundation in modern web techno
 - **JavaScript** / **TypeScript**
 - **React.js** - Component-based UI development
 - **HTML5 & CSS3** - Semantic markup and responsive design
-- **Responsive Web Design** - Mobile-first approach
+- **Tailwind CSS** - CSS framework
 
 ### Backend
 - **Node.js** - JavaScript runtime
 - **Express.js** - Web application framework
+- **PostgreSQL** - SQL database
 - **MongoDB** - NoSQL database
-- **Mongoose** - ODM for MongoDB
+- **Docker** - Containerization
 
 ### Additional Skills
 - **RESTful API Design** - Building scalable APIs
-- **User Authentication** - Email OTP verification, secure authentication
+- **User Authentication** - OTP verification, secure authentication
 - **Database Management** - Schema design and optimization
 - **Version Control** - Git and GitHub
-
----
-
-## 📁 Featured Projects
-
-### 🎨 Portfolio & Personal Projects
-
-#### [Portfolio Website](https://github.com/lord-joeh/Joseph-Mensah)
-A modern, responsive portfolio website showcasing my skills, projects, and professional journey as a software developer.  
-- **Tech:** JavaScript, HTML5, CSS3
-- **Features:** Responsive design, project showcase, skill display
-
-#### [Portfolio Backend](https://github.com/lord-joeh/portfolio-backend)
-RESTful backend service for portfolio management built with Node.js and Express.  
-- **Tech:** Node. js, Express, MongoDB, Mongoose
-- **Features:** APIs for managing About, Skills, Projects, and Certificates; User authentication
-
----
-
-### 🍕 E-Commerce & Ordering Systems
-
-#### [Styles Pizza Frontend](https://github.com/lord-joeh/styles-pizza-frontend)
-A modern, responsive React-based pizza ordering system with separate interfaces for customers and administrators.
-- **Tech:** React.js, JavaScript
-- **Features:** Customer ordering interface, admin dashboard, responsive design
-
-#### [Styles Pizza Backend](https://github.com/lord-joeh/styles-pizza-backend)
-Robust Node.js/Express backend service for a pizza ordering system with comprehensive management features.
-- **Tech:** Node.js, Express, MongoDB
-- **Features:** User authentication, order management, pizza customization, payment processing
-
----
-
-### 🧺 Service Management Systems
-
-#### [Laundry Management System Backend](https://github.com/lord-joeh/laundry-management-system-backend)
-Complete backend service for managing laundry operations including customer registration and order management.
-- **Tech:** Node. js, Express, MongoDB
-- **Features:** Customer management, order tracking, service offerings, payment processing
-
-#### [Course Representative Management System](https://github.com/lord-joeh/course-rep-management-system)
-Full-stack management system for course representatives.  
-- **Tech:** JavaScript, Node.js
-- **Features:** Course management, representative tracking
-
----
-
-### 🔐 Authentication & Utilities
-
-#### [OTP Verification System](https://github.com/lord-joeh/OTP-verification)
-A secure Node.js application for user authentication with email-based OTP (One-Time Password) verification.
-- **Tech:** Node.js, JavaScript
-- **Features:** Email verification, secure OTP generation and validation
-
-#### [Currency Converter](https://github.com/lord-joeh/currency_converter)
-A modern, user-friendly currency conversion application with real-time exchange rates. 
-- **Tech:** Node.js, Express, JavaScript
-- **Features:** Multi-currency conversion, real-time rates, responsive UI
-
----
-
-### 🎮 Games & Learning Projects
-
-#### [Tic Toc Toe Game](https://github.com/lord-joeh/tic-toc-toe)
-Interactive Tic Tac Toe game built with React.js. 
-- **Tech:** React.js, JavaScript
-
-#### [Weather Forecast](https://github.com/lord-joeh/weather-forecast)
-Weather forecasting application with responsive design.
-- **Tech:** HTML, CSS
 
 ---
 
@@ -160,9 +91,9 @@ Weather forecasting application with responsive design.
 
 I'm always open to collaboration, freelance opportunities, and discussions about web development. Feel free to reach out through: 
 
+- 🌍 **Location:** Accra, Ghana
+- 💻 **Portfolio:** [mensah.dev-joseph.me](https://mensah.dev-joseph.me)
 - 📧 **Email:** josephtettehmensah37@gmail.com
-- 🌐 **Portfolio:** [joseph-mensahportfolio.vercel.app](https://joseph-mensahportfolio.vercel. app/)
-- 💼 **GitHub:** [@lord-joeh](https://github.com/lord-joeh)
 
 ---
 
