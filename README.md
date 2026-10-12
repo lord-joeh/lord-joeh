@@ -15,7 +15,7 @@ Building complete digital products from mobile apps to complex backend systems. 
 **Full-stack products** with strong fundamentals across:
 - Native mobile apps (Flutter + React Native)
 - Modern web applications (Next.js, React)
-- Production backend systems (Node.js, Express, TypeScript)
+- Production backend systems (Nestjs, Node.js, Express, TypeScript)
 - Real-time features, payments, authentication
 - Scalable databases and APIs
 
@@ -26,34 +26,35 @@ I move fast, iterate based on user feedback, and obsess over shipping working so
 ## Core Tech Stack
 
 **Mobile (Multiplatform)**
-- Flutter & Dart (TPay, Agromart, MediConnect)
-- React Native & Expo (StickerSmash, The-Vault)
+- Flutter & Dart
+- React Native & Expo
 - Native platform considerations (iOS, Android)
 
 **Frontend/Web**
-- Next.js (CV-Builder with AI integration)
-- React.js & TypeScript (modern patterns)
+- Next.js
+- React.js & TypeScript
 - Tailwind CSS, Radix UI, shadcn/ui
 - Responsive & accessible design
 
 **Backend**
-- Node.js & Express.js (multiple production systems)
+- NestJS
+- Node.js & Express.js
 - TypeScript for type safety
 - REST APIs & real-time integration
-- Payment processing (Stripe)
+- Payment processing
 - Firebase, real-time databases
 
 **Data & Storage**
-- PostgreSQL (relational)
-- MongoDB (document-based)
-- Secure local storage (SQLite, Hive, encrypted storage)
+- PostgreSQL
+- MongoDB
+- Secure local storage
 - Redis, caching strategies
 
 **Infrastructure**
 - Docker & containerization
 - Deployment pipelines
 - Firebase & cloud services
-- Cloudinary (media management)
+- Cloudinar
 
 ---
 
@@ -65,8 +66,6 @@ I move fast, iterate based on user feedback, and obsess over shipping working so
 
 **Mobile Apps**
 - [Agromart Mobile](https://github.com/lord-joeh/agromart-mobile) — Flutter farm-to-restaurant marketplace with Google Maps, offline-first architecture, real-time updates
-- [StickerSmash](https://github.com/lord-joeh/StickerSmash) — React Native/Expo sticker app with media library integration
-- [MediConnect](https://github.com/lord-joeh/mediconnect) — Healthcare Flutter application
 - [The-Vault](https://github.com/lord-joeh/The-Vault) — Full-stack Expo mobile + Node.js backend platform
 
 **Web Applications**
@@ -80,9 +79,7 @@ I move fast, iterate based on user feedback, and obsess over shipping working so
 - [Course Rep Management](https://github.com/lord-joeh/course-rep-management-system) — Admin dashboard and backend APIs
 
 **Core Infrastructure**
-- [Portfolio Backend](https://github.com/lord-joeh/portfolio-backend) — Headless CMS with auth and content APIs (Node.js, MongoDB)
-- [OTP Verification](https://github.com/lord-joeh/OTP-verification) — Secure email-based auth system
-- Authentication & payment flows across multiple platforms
+- [Portfolio Backend](https://github.com/lord-joeh/portfolio-backend) — Headless CMS with auth and content APIs (NestJS, Supabase)
 
 <div align="center">
 
