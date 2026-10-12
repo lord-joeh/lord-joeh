@@ -81,16 +81,14 @@ I move fast, iterate based on user feedback, and obsess over shipping working so
 **Core Infrastructure**
 - [Portfolio Backend](https://github.com/lord-joeh/portfolio-backend) — Headless CMS with auth and content APIs (NestJS, Supabase)
 
+## 📊 GitHub Statistics
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lord-joeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lord-joeh&layout=compact&theme=tokyonight&hide_border=true)
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lord-joeh&theme=radical&hide_border=true)
 
 </div>
 
