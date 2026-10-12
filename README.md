@@ -1,13 +1,88 @@
 # Joseph Tetteh Mensah
 
-## Full-Stack Developer | Web & API Engineer
+**Full-Stack Product Engineer | Mobile to Backend**
 
-I build modern, reliable, and user-focused web applications with a strong focus on clean architecture, smooth user experience, and scalable backend systems. My work bridges both frontend and backend development, helping turn product ideas into functional, production-ready digital experiences.
+Building complete digital products from mobile apps to complex backend systems. I ship across web, mobile (React Native & Flutter), and server-side—with a focus on user impact and rapid execution. Based in Accra, passionate about solving real problems with great code.
 
-- Location: Accra, Ghana
-- Portfolio: [mensah.dev-joseph.me](https://mensah.dev-joseph.me)
-- Email: [josephtettehmensah37@gmail.com](mailto:josephtettehmensah37@gmail.com)
-- GitHub: [@lord-joeh](https://github.com/lord-joeh)
+- **Based in:** Accra, Ghana
+- **Portfolio:** [mensah.dev-joseph.me](https://mensah.dev-joseph.me)
+- **Email:** [josephtettehmensah37@gmail.com](mailto:josephtettehmensah37@gmail.com)
+
+---
+
+## What I Build
+
+**Full-stack products** with strong fundamentals across:
+- Native mobile apps (Flutter + React Native)
+- Modern web applications (Next.js, React)
+- Production backend systems (Node.js, Express, TypeScript)
+- Real-time features, payments, authentication
+- Scalable databases and APIs
+
+I move fast, iterate based on user feedback, and obsess over shipping working software. I've built and launched marketplace platforms, fintech apps, healthcare solutions, and business management systems.
+
+---
+
+## Core Tech Stack
+
+**Mobile (Multiplatform)**
+- Flutter & Dart (TPay, Agromart, MediConnect)
+- React Native & Expo (StickerSmash, The-Vault)
+- Native platform considerations (iOS, Android)
+
+**Frontend/Web**
+- Next.js (CV-Builder with AI integration)
+- React.js & TypeScript (modern patterns)
+- Tailwind CSS, Radix UI, shadcn/ui
+- Responsive & accessible design
+
+**Backend**
+- Node.js & Express.js (multiple production systems)
+- TypeScript for type safety
+- REST APIs & real-time integration
+- Payment processing (Stripe)
+- Firebase, real-time databases
+
+**Data & Storage**
+- PostgreSQL (relational)
+- MongoDB (document-based)
+- Secure local storage (SQLite, Hive, encrypted storage)
+- Redis, caching strategies
+
+**Infrastructure**
+- Docker & containerization
+- Deployment pipelines
+- Firebase & cloud services
+- Cloudinary (media management)
+
+---
+
+## Recent Products & Projects
+
+**Fintech & Payments**
+- [TPay](https://github.com/lord-joeh/TPay) — Flutter payment app with secure storage, biometric auth, offline capabilities
+- Agromart Backend — TypeScript backend for agricultural marketplace (real-time, payments, vendor management)
+
+**Mobile Apps**
+- [Agromart Mobile](https://github.com/lord-joeh/agromart-mobile) — Flutter farm-to-restaurant marketplace with Google Maps, offline-first architecture, real-time updates
+- [StickerSmash](https://github.com/lord-joeh/StickerSmash) — React Native/Expo sticker app with media library integration
+- [MediConnect](https://github.com/lord-joeh/mediconnect) — Healthcare Flutter application
+- [The-Vault](https://github.com/lord-joeh/The-Vault) — Full-stack Expo mobile + Node.js backend platform
+
+**Web Applications**
+- [CV-Builder](https://github.com/lord-joeh/cv-builder) — Next.js AI-powered resume generator (Google GenAI, PDF generation, modern UI)
+- [Pablo Motors](https://github.com/lord-joeh/pablo-motors) — Modern React frontend with advanced UI patterns
+- [Expo E-Commerce](https://github.com/lord-joeh/expo-ecommerce) — Full-stack e-commerce (React admin, Express backend, Stripe, inventory management)
+
+**Marketplace & Business Systems**
+- [Styles Pizza System](https://github.com/lord-joeh/styles-pizza-frontend) — Complete ordering platform (React frontend, Express backend, payment integration)
+- [Laundry Management System](https://github.com/lord-joeh/laundry-management-system-backend) — Booking, order, and payment system
+- [Course Rep Management](https://github.com/lord-joeh/course-rep-management-system) — Admin dashboard and backend APIs
+
+**Core Infrastructure**
+- [Portfolio Backend](https://github.com/lord-joeh/portfolio-backend) — Headless CMS with auth and content APIs (Node.js, MongoDB)
+- [OTP Verification](https://github.com/lord-joeh/OTP-verification) — Secure email-based auth system
+- Authentication & payment flows across multiple platforms
 
 <div align="center">
 
@@ -19,85 +94,36 @@ I build modern, reliable, and user-focused web applications with a strong focus 
 
 ---
 
-## About Me
+## Engineering Philosophy
 
-A results-driven software developer with hands-on experience in designing and building full-stack web products, business applications, APIs, and internal tools. I enjoy working across the stack, from interfaces and user flows to backend logic, database schemas, and deployment workflows.
-
-My experience includes:
-- Full-stack web application development
-- REST API design and integration
-- Database design and optimization
-- Authentication, authorization, and secure user flows
-- Responsive UI development
-- Product-oriented engineering and iterative delivery
+- **Product thinking.** I start with user needs and business goals. Technology is the means, not the end.
+- **Ship fast.** Working software beats perfect code. Iterate in production, learn from users.
+- **Full ownership.** End-to-end responsibility: from product idea through architecture to launch and beyond.
+- **Cross-platform mindset.** Seamless experience across mobile (iOS/Android), web, and backend.
+- **Clean code.** Well-structured, maintainable systems that scale. Good architecture pays dividends.
+- **User-obsessed.** Build products people love, not just features people tolerate.
 
 ---
 
-## Tech Stack
+## What I'm Looking For
 
-### Frontend
-- JavaScript / TypeScript
-- React.js
-- HTML5 / CSS3
-- Tailwind CSS
-- Responsive UI Design
-
-### Backend
-- Node.js
-- Express.js
-- RESTful API Development
-- PostgreSQL
-- MongoDB
-- Docker
-
-### Additional Skills
-- Authentication & OTP Verification
-- API Documentation & Integration
-- Data Modeling
-- Version Control with Git & GitHub
-- Agile / Iterative Development
-
----
-
-## Featured Work
-
-I have built and contributed to a wide range of projects including:
-
-- E-commerce and marketplace systems
-- Business management and admin dashboards
-- Portfolio and personal brand platforms
-- Authentication systems with email OTP verification
-- API-driven applications and backend services
-- Frontend experiences for customer-facing products
-
-Selected public projects:
-- [styles-pizza-frontend](https://github.com/lord-joeh/styles-pizza-frontend)
-- [styles-pizza-backend](https://github.com/lord-joeh/styles-pizza-backend)
-- [portfolio-backend](https://github.com/lord-joeh/portfolio-backend)
-- [course-rep-management-system](https://github.com/lord-joeh/course-rep-management-system)
-- [cv-builder](https://github.com/lord-joeh/cv-builder)
-- [mediconnect](https://github.com/lord-joeh/mediconnect)
-
----
-
-## Current Focus
-
-- Building scalable and maintainable web applications
-- Designing clear and secure backend systems
-- Improving user experience through thoughtful frontend development
-- Creating tools and apps that solve real business problems
-- Continuously learning and refining engineering practices
+- **Building:** Innovative products, marketplaces, fintech platforms, or SaaS with real traction
+- **Full-stack roles:** Lead technical initiatives, architect systems, mentor teams
+- **Early-stage:** Startup opportunities where execution and speed matter
+- **Advisory:** Technical strategy, architecture decisions, technical hiring
+- **Contracts:** Full-stack development, mobile apps (Flutter/React Native), backend APIs
+- **Collaborations:** Talented teams building products that solve real problems
 
 ---
 
 ## Let's Connect
 
-I am open to collaboration, freelance opportunities, product development work, and software engineering conversations.
+Always open to interesting opportunities, partnerships, and engineering conversations.
 
-- Portfolio: [mensah.dev-joseph.me](https://mensah.dev-joseph.me)
-- Email: [josephtettehmensah37@gmail.com](mailto:josephtettehmensah37@gmail.com)
-- GitHub: [@lord-joeh](https://github.com/lord-joeh)
+📧 Email: [josephtettehmensah37@gmail.com](mailto:josephtettehmensah37@gmail.com)  
+🌐 Portfolio: [mensah.dev-joseph.me](https://mensah.dev-joseph.me)  
+💻 GitHub: [@lord-joeh](https://github.com/lord-joeh)
 
 ---
 
-> Building practical, scalable, and user-centered software solutions.
+> Great products require obsessive attention to execution. Let's build something that matters.
