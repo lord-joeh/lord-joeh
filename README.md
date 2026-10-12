@@ -1,106 +1,103 @@
 # Joseph Tetteh Mensah
 
-## 👋 Welcome to My GitHub Profile
+## Full-Stack Developer | Web & API Engineer
 
-An innovative and results-driven **Full-Stack Web Developer** with expertise in building clean, responsive, scalable, and high-performance web applications. Based in **Accra, Ghana**, I'm passionate about creating user-centric solutions and continuously expanding my technical skillset.
+I build modern, reliable, and user-focused web applications with a strong focus on clean architecture, smooth user experience, and scalable backend systems. My work bridges both frontend and backend development, helping turn product ideas into functional, production-ready digital experiences.
 
----
-
-## 📊 GitHub Statistics
+- Location: Accra, Ghana
+- Portfolio: [mensah.dev-joseph.me](https://mensah.dev-joseph.me)
+- Email: [josephtettehmensah37@gmail.com](mailto:josephtettehmensah37@gmail.com)
+- GitHub: [@lord-joeh](https://github.com/lord-joeh)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lord-joeh&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lord-joeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lord-joeh&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lord-joeh&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a dedicated software developer with a strong foundation in modern web technologies. With experience in both **frontend** and **backend** development, I specialize in crafting complete, production-ready applications.  I'm committed to writing clean, maintainable code and following industry best practices.
+A results-driven software developer with hands-on experience in designing and building full-stack web products, business applications, APIs, and internal tools. I enjoy working across the stack, from interfaces and user flows to backend logic, database schemas, and deployment workflows.
 
-- 🌍 **Location:** Accra, Ghana
-- 💻 **Portfolio:** [mensah.dev-joseph.me](https://mensah.dev-joseph.me)
-- 📧 **Email:** josephtettehmensah37@gmail.com
-- 🔗 **GitHub:** [@lord-joeh](https://github.com/lord-joeh)
+My experience includes:
+- Full-stack web application development
+- REST API design and integration
+- Database design and optimization
+- Authentication, authorization, and secure user flows
+- Responsive UI development
+- Product-oriented engineering and iterative delivery
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
-- **JavaScript** / **TypeScript**
-- **React.js** - Component-based UI development
-- **HTML5 & CSS3** - Semantic markup and responsive design
-- **Tailwind CSS** - CSS framework
+- JavaScript / TypeScript
+- React.js
+- HTML5 / CSS3
+- Tailwind CSS
+- Responsive UI Design
 
 ### Backend
-- **Node.js** - JavaScript runtime
-- **Express.js** - Web application framework
-- **PostgreSQL** - SQL database
-- **MongoDB** - NoSQL database
-- **Docker** - Containerization
+- Node.js
+- Express.js
+- RESTful API Development
+- PostgreSQL
+- MongoDB
+- Docker
 
 ### Additional Skills
-- **RESTful API Design** - Building scalable APIs
-- **User Authentication** - OTP verification, secure authentication
-- **Database Management** - Schema design and optimization
-- **Version Control** - Git and GitHub
+- Authentication & OTP Verification
+- API Documentation & Integration
+- Data Modeling
+- Version Control with Git & GitHub
+- Agile / Iterative Development
 
 ---
 
-## 📈 Activity Overview
+## Featured Work
 
-<div align="center">
+I have built and contributed to a wide range of projects including:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lord-joeh&theme=radical&hide_border=true)
+- E-commerce and marketplace systems
+- Business management and admin dashboards
+- Portfolio and personal brand platforms
+- Authentication systems with email OTP verification
+- API-driven applications and backend services
+- Frontend experiences for customer-facing products
 
-</div>
-
----
-
-## 🎯 Core Competencies
-
-- ✅ Full-Stack Web Development
-- ✅ RESTful API Design & Implementation
-- ✅ Frontend Development & UI/UX
-- ✅ Backend Development & Database Design
-- ✅ User Authentication & Security
-- ✅ Responsive Web Design
-- ✅ Clean Code & Best Practices
-- ✅ Problem-Solving & Debugging
-- ✅ Version Control & Collaboration
+Selected public projects:
+- [styles-pizza-frontend](https://github.com/lord-joeh/styles-pizza-frontend)
+- [styles-pizza-backend](https://github.com/lord-joeh/styles-pizza-backend)
+- [portfolio-backend](https://github.com/lord-joeh/portfolio-backend)
+- [course-rep-management-system](https://github.com/lord-joeh/course-rep-management-system)
+- [cv-builder](https://github.com/lord-joeh/cv-builder)
+- [mediconnect](https://github.com/lord-joeh/mediconnect)
 
 ---
 
-## 💡 What I'm Passionate About
+## Current Focus
 
 - Building scalable and maintainable web applications
-- Creating intuitive user experiences
-- Writing clean, well-documented code
-- Learning new technologies and frameworks
-- Contributing to open-source projects
-- Solving complex technical challenges
+- Designing clear and secure backend systems
+- Improving user experience through thoughtful frontend development
+- Creating tools and apps that solve real business problems
+- Continuously learning and refining engineering practices
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-I'm always open to collaboration, freelance opportunities, and discussions about web development. Feel free to reach out through: 
+I am open to collaboration, freelance opportunities, product development work, and software engineering conversations.
 
-- 🌍 **Location:** Accra, Ghana
-- 💻 **Portfolio:** [mensah.dev-joseph.me](https://mensah.dev-joseph.me)
-- 📧 **Email:** josephtettehmensah37@gmail.com
-
----
-
-## 📝 License
-
-Most of my projects are available under the MIT License. Please refer to individual repositories for specific licensing information.
+- Portfolio: [mensah.dev-joseph.me](https://mensah.dev-joseph.me)
+- Email: [josephtettehmensah37@gmail.com](mailto:josephtettehmensah37@gmail.com)
+- GitHub: [@lord-joeh](https://github.com/lord-joeh)
 
 ---
 
-*"Building innovative solutions, one line of code at a time."*
+> Building practical, scalable, and user-centered software solutions.
