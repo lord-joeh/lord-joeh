@@ -83,9 +83,14 @@ I move fast, iterate based on user feedback, and obsess over shipping working so
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lord-joeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lord-joeh&layout=compact&theme=tokyonight&hide_border=true)
+
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 ![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+
 
 </div>
 
